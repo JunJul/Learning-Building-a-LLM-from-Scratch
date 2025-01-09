@@ -1,1 +1,1 @@
-# Learning-Building-LLM-from-Scratch
+# Learning-Building-a-LLM-from-Scratch
